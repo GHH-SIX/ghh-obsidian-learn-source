@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "98007b12c5cab19a",
+    "type": "split",
+    "children": [
+      {
+        "id": "977b5657a42cdb6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95035e1536ceabca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "vue3/Excalidraw/全量diff.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "全量diff.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fbfb44cec248085",
+    "type": "split",
+    "children": [
+      {
+        "id": "088b3dee22681373",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cda4cfbf94b80177",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fd61d809dbb904b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fc4aa23f7bc80650",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc52384519044b25",
+    "type": "split",
+    "children": [
+      {
+        "id": "75036356322dc1ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82980b890f92a3f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vue3/Excalidraw/链表.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "链表.excalidraw 的反向链接列表"
+            }
+          },
+          {
+            "id": "197b5e9c5748f981",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vue3/Excalidraw/链表.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "链表.excalidraw 的出链列表"
+            }
+          },
+          {
+            "id": "9a32d36a129c46bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3a782854f0740a2d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "0f6dff3780138365",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vue3/Excalidraw/链表.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "链表.excalidraw 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "95035e1536ceabca",
+  "lastOpenFiles": [
+    "vue3/images/head-diff.png",
+    "vue3/images/乱序diff.png",
+    "vue3/Excalidraw/全量diff.excalidraw.md",
+    "vue3/Excalidraw/链表.excalidraw.md",
+    "vue3/Excalidraw/Drawing 2025-06-30 21.34.54.excalidraw.md",
+    "vue3/Excalidraw/分支切换.excalidraw.md",
+    "vue3/Vue3 源码解析.md",
+    "vue3/images/linked-remove-head.gif",
+    "vue3/images/doubly-linked-list-remove.gif",
+    "vue3/images/doubly-linked-list.png",
+    "vue3/images/ref-track-trigger.png",
+    "欢迎.md",
+    "vue3/Excalidraw/重复收集.excalidraw.md",
+    "vue3/Excalidraw/LRU缓存算法.excalidraw.md",
+    "vue3/Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "vue3/Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "vue3/Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "vue3/Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "vue3/Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "vue3/Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "vue3/Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "vue3/Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
+    "vue3/Excalidraw/Scripts/Downloaded/Uniform size.md",
+    "vue3/Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "vue3/Excalidraw/Scripts/Downloaded",
+    "vue3/Excalidraw/Scripts",
+    "vue3/Excalidraw/computed.excalidraw.md",
+    "vue3/Excalidraw/响应式基本概念.excalidraw.md",
+    "vue3/Excalidraw/block.excalidraw.md",
+    "vue3/Excalidraw/重复收集-2.excalidraw.md",
+    "vue3/Excalidraw/reactive-dep.excalidraw.md",
+    "vue3/Excalidraw/最长递增子序列.excalidraw.md",
+    "vue3/Excalidraw",
+    "vue3/images",
+    "vue3"
+  ]
+}

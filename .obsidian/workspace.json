@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "61fb9b63c8214d9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de66bd7f6a765709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb51ea8bd782ab66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myVue3/Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f975121d9feee8a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "973429993a1d2e58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "199590f4f23163e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d8d7b9ae19cf64c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6125b0fdd8da4d83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "916984949e265883",
+    "type": "split",
+    "children": [
+      {
+        "id": "88b6c352a6ccb362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b03b8dadfcf23c63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "myself/computed时序图.svg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "computed时序图 的反向链接列表"
+            }
+          },
+          {
+            "id": "8179ff5b938166d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "myself/computed时序图.svg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "computed时序图 的出链列表"
+            }
+          },
+          {
+            "id": "4553b654d8873bc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "dfcb94278e041e8f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e599d2d971abf952",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "myself/computed时序图.svg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "computed时序图 的大纲"
+            }
+          },
+          {
+            "id": "a2b323e668cc6bab",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "199590f4f23163e8",
+  "lastOpenFiles": [
+    "README.md",
+    "未来之道/Excalidraw/Vitest概况.excalidraw.md",
+    "未来之道/设计模式.md",
+    "未来之道/Excalidraw/shadcn系统.excalidraw.md",
+    "未来之道/打包Motion库.md",
+    "未来之道/兼容Nuxt的组件库.md",
+    "未来之道/深度了解Motion库.md",
+    "未来之道/Zod Schema 与 Element Plus 表单规则的映射.md",
+    "未来之道/全面控制Motion动画.md",
+    "未来之道/封装Motion组件.md",
+    "AiDocs/动画剖析.md",
+    "vim/其他常用.md",
+    "vim/同行（跨行）操作（d，y，v等）.md",
+    "vim/g 指令常用 （定位 & 导航）.md",
+    "vim/m 指令常用 （标记 & 跳转）.md",
+    "vim/z 指令常用 （移动 & 折叠）.md",
+    "AiDocs/vscode-metajump 插件使用手册.md",
+    "myVue3/Vue3知识点总结/Ai文档集合/生命周期函数执行顺序.md",
+    "AiDocs",
+    "未命名 1.md",
+    "未来之道/Excalidraw",
+    "vim/光标跳转常用（神器）.md",
+    "myVue3/Readme.md",
+    "vim",
+    "未命名.base",
+    "未命名 1.base",
+    "Ts/Ts常用配置解析.md",
+    "Ts/Ts：Error-找不到模块“第三方库”或其相应的类型声明.md",
+    "myVue3/Vue3知识点总结/Vue学习笔记（零碎知识）/reactive.md",
+    "myVue3/Js知识点总结/Js核心知识学习.md",
+    "myVue3/Js知识点总结/AI作用域、作用域链.md",
+    "myVue3/Vue3知识点总结/图解某写知识点（零碎知识）/toRef原理解析.excalidraw.excalidraw",
+    "myVue3/Vue3知识点总结/图解某写知识点（零碎知识）/reactive包裹ref原理.excalidraw.excalidraw",
+    "myVue3/笔记资源（截图，图片等）/截屏-targetMap.png",
+    "myVue3/笔记资源（截图，图片等）/截屏-depsMap.png",
+    "myVue3/笔记资源（截图，图片等）/computed时序图.png",
+    "Ts",
+    "未来之道",
+    "Nuxt",
+    "myVue3/笔记资源（截图，图片等）/截屏-修改多层级数据重新搜集依赖后的targetMap.png",
+    "myVue3/笔记资源（截图，图片等）/computed时序图.svg",
+    "myself/Mermaid Chart - Create complex, visual diagrams with text.-2026-01-05-154003.svg",
+    "myself/Mermaid Chart - Create complex, visual diagrams with text.-2026-01-05-153956.png",
+    "vueDocs/vue3/images/linked-remove-head.gif",
+    "vueDocs/vue3/images/head-diff.png",
+    "vueDocs/vue3/images/doubly-linked-list-remove.gif"
+  ]
+}
